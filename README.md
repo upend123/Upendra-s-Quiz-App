@@ -199,7 +199,7 @@ Click below to download the latest version of the APK directly:
 ### 🚀 Running the App Locally (Android Studio):
 1. Clone the repository:
    ```bash
-   git clone https://github.com/upend123/Tic-Toc-Toe-App.git
+   git clone https://github.com/upend123/Upendra-s-Quiz-App.git
    ```
 2. Open the project in **Android Studio**.
 3. Connect your Android device or start an emulator.
