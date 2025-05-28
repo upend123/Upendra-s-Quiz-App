@@ -1,0 +1,14 @@
+syntax = "proto3";
+option java_package = "com.example.upendrasquizapp";
+option java_multiple_files = true;
+
+message UserProto {
+ string first_name = 1;
+ string second_name = 2;
+ string quote = 3;
+ string email = 4;
+ string number = 5;
+ bytes profile_photo = 6;
+ bytes banner_photo = 7;
+
+}
