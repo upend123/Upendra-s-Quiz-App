@@ -194,7 +194,7 @@ Welcome to **Upendra’s Quiz App** – a modern Android quiz application built 
 ### 📥 Direct APK Download:
 Click below to download the latest version of the APK directly:
 
-➡️ **[Download APK](https://github.com/upend123/Tic-Toc-Toe-App/releases/download/v1.0.0/app-tic-toc-toe.apk)**
+➡️ **[Download APK](https://github.com/upend123/Upendra-s-Quiz-App/releases/download/v1.0/UpendrasQuizApp-v1.0.apk)**
 
 ### 🚀 Running the App Locally (Android Studio):
 1. Clone the repository:
