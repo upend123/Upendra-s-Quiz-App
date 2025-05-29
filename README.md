@@ -9,7 +9,7 @@ Welcome to **Upendra’s Quiz App** – a modern Android quiz application built 
 **Upendra’s Quiz App** is a fully-featured quiz application that leverages the latest Android technologies including MVVM, Jetpack Compose, Room, Retrofit, and Proto DataStore. Users can take quizzes, view scores, store their profile securely, and share results across platforms like WhatsApp and Telegram directly from the app icon.
 
 ---
-[Watch the demo](https://github.com/upend123/Upendra-s-Quiz-App/releases/download/v1.0.0/quiz-demo-v1.gif)
+[[Watch the demo video](https://github.com/upend123/Upendra-s-Quiz-App/releases/download/v1.0.0/quiz-demo-v1.mp4)]
 
 ---
 ## ⚙️ Technologies Used
